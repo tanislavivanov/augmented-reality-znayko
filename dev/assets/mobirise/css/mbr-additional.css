@@ -1207,36 +1207,23 @@ a {
     padding-right: 4rem;
   }
 }
-.cid-sx1dAVcHYe {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-sx1NSpdYgr {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-sx1dAVcHYe .card-box {
-  z-index: 10;
-  position: relative;
-}
-@media (min-width: 1500px) {
-  .cid-sx1dAVcHYe .container {
-    max-width: 1400px;
+@media (max-width: 991px) {
+  .cid-sx1NSpdYgr .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-.cid-sx1dAVcHYe .card {
-  margin: auto;
+.cid-sx1NSpdYgr img {
+  width: 100%;
 }
-.cid-sx1dAVcHYe .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
-  margin-bottom: 2rem;
-}
-.cid-sx1dAVcHYe .card-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-sx1dAVcHYe .row {
-  justify-content: center;
+@media (min-width: 992px) {
+  .cid-sx1NSpdYgr .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-sx1h67roK4 {
   padding-top: 6rem;
